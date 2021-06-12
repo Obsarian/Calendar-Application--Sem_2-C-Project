@@ -8,7 +8,7 @@ struct date
     int dd;
     int mm;
     int yyyy;
-}
+};
 
 int isLeap(int yyyy)
 {
